@@ -1,7 +1,7 @@
 # Personal Website 
 
-* Languages Used: HTML, CSS, JS
-Hi, I'm Nicole Lucas and this is my personal website.
+* Languages Used: HTML, CSS, JS    
+Hi, I'm Nicole Lucas and this is my personal website.  
 
 I've created this website using HTML, CSS, and JavaScript to showcase some of the projects I have worked on.
 
