@@ -20,7 +20,7 @@ The site was designed and coded from scratch to reflect my personality, design p
 - **Contact**- Email link and other contact details using API fetching
 
 ### Live Wesbite :rocket: 
-You can view the live version of my website here deployed using Netlify: 
+You can view the live version of my [website](www.nicolecindylucas.com) here deployed using Netlify  
 
 ### What I Learned :brain: 
 * Structuring multi-page websites using semantic HTML
