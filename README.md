@@ -30,6 +30,7 @@ You can view the live version of my [website](https://nicolecindylucas.com/) her
 
 ### Future Improvements :pushpin: 
 * Add animations and transitions for a smoother user experience
+- Auto responsive layout for tablets and phone (currently debugging)
 - Optimize performance and loading times
 - Implement dark mode toggle and theme switching
 - THIS IS A WORK CONSTANTLY IN PROGRESS AS I CONTINUE MY DEVELOPMENT JOURNEY :smile:
