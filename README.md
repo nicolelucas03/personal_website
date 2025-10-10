@@ -13,7 +13,7 @@ The site was designed and coded from scratch to reflect my personality, design p
 - **CSS3**- for styling, layout, and responsive layout
 - **JavaScript**- for interactively and dynamic behavior
 
-### Key Section :file_folder: 
+### Key Sections :file_folder: 
 * **Home**- Brief introduction and welcome message
 - **Projects**- A curated selection of web projects, each with links and descriptions
 - **About Me**- My background, interests, and what I am currently learning
