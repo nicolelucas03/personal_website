@@ -76,17 +76,21 @@ body {
   font-size: 1rem;
   width: 200px; 
   border: none;
-  border-radius: 10px;
+  border-radius: 12px;
+  text-decoration: none;
 }
+
 
 #resume:hover{ 
   background-color: #FFC1A6;
   font-weight: bold;
+  text-decoration: underline; 
 }
 
 #contact:hover{ 
   background-color: #FFC1A6;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 #contact{
@@ -131,7 +135,7 @@ body {
 }
 
 .section2-text { 
-  font-family: "Koh Santepheap", serif; 
+  font-family: "Koh Santepheap", serif;
   font-size: 1.1rem;
   text-align: left;
   line-height: 1.5;
