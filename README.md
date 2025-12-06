@@ -1,9 +1,7 @@
 # Personal Website  
-
-## About
-
 Hi, I'm Nicole Lucas, and this is my personal website, a space where I introduce myself, share my background, and showcase projects I've built.
 
+## About
 This site was designed and coded from scratch to reflect my personality, design preferences, and growing skills as a front-end web developer. It also serves as a portfolio hub for future opportunities and collaborations.
 
 ## Tech Stack 
