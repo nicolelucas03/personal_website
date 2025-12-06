@@ -24,10 +24,7 @@ This site was designed and coded from scratch to reflect my personality, design 
 - **Contact**- Email link and other contact details using API fetching
 
 ## Live Wesbite
-You can view the live version of my [website](https://nicolecindylucas.com/) here deployed using Netlify(sometimes in pause)
-
-or 
-[Github Pages](https://nicolelucas03.github.io/personal_website/)
+You can view the live version of my website deployed with [Github Pages](https://nicolelucas03.github.io/personal_website/)
 
 ## What I Learned
 - Structuring multi-page websites using semantic HTML
