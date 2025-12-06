@@ -10,9 +10,17 @@ Hi, I'm Nicole Lucas, and this is my personal website, a space where I introduce
 This site was designed and coded from scratch to reflect my personality, design preferences, and growing skills as a front-end web developer. It also serves as a portfolio hub for future opportunities and collaborations.
 
 ## Tech Stack 
-* [![HTML][HTML.js]][HTML-url]
-* [![CSS][CSS.js]][CSS-url]
-* [![JavaScript][JS.js]][JS-url]
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML%20-orange?style=for-the-badge&logo=html5&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/HTML"/> 
+    </a>
+        
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/CSS"/>
+    </a>
+        
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
+    </a>
 
 ## Key Sections :file_folder: 
 - **Home**- Brief introduction and welcome message
