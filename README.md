@@ -22,26 +22,26 @@ This site was designed and coded from scratch to reflect my personality, design 
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
     </a>
 
-## Key Sections :file_folder: 
+## Key 
 - **Home**- Brief introduction and welcome message
 - **Projects**- A curated selection of web projects, each with links and descriptions
 - **About Me**- My background, interests, and what I am currently learning
 - **Contact**- Email link and other contact details using API fetching
 
-## Live Wesbite :rocket: 
+## Live Wesbite
 You can view the live version of my [website](https://nicolecindylucas.com/) here deployed using Netlify(sometimes in pause)
 
 or 
 [Github Pages](https://nicolelucas03.github.io/personal_website/)
 
-## What I Learned :brain: 
+## What I Learned
 - Structuring multi-page websites using semantic HTML
 - Writing responsive CSS layout with Flexbox and media queries
 - Adding simple JavaScript for interactivity (like smooth scrolling and menu toggles)
 - Thinking through user experience and content hierarchy
 
-## Future Improvements :pushpin: 
-* Add animations and transitions for a smoother user experience
+## Future Improvements
+-  Add animations and transitions for a smoother user experience
 - Auto responsive layout for tablets and phone (currently debugging)
 - Optimize performance and loading times
 - Implement dark mode toggle and theme switching
