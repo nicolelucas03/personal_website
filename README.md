@@ -40,8 +40,8 @@ You can view the live version of my website deployed with [Github Pages](https:/
 - THIS IS A WORK CONSTANTLY IN PROGRESS AS I CONTINUE MY DEVELOPMENT JOURNEY
 
 ## Contact: 
-Nicole Lucas 
+**Author**: Nicole Lucas 
 
-nicoleclucas003@gmail.com
+**Email**: nicoleclucas003@gmail.com
 
 
