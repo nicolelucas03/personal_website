@@ -3,15 +3,16 @@
 
 **Email**: nicoleclucas003@gmail.com 
 
-## About :wave: 
-Hi, I'm Nicole Lucas, and this is my personal website, a space where I introduce myself, share my background, and showcase projects I've built using HTML, CSS, and JavaScript.
+## About
 
-The site was designed and coded from scratch to reflect my personality, design preferences, and growing skills as a front-end web developer. It also serves as a portfolio hub for future opportunities and collaborations.
+Hi, I'm Nicole Lucas, and this is my personal website, a space where I introduce myself, share my background, and showcase projects I've built.
 
-## Tech Stack :computer: 
-- **HTML**- for structure and semantic markup
-- **CSS3**- for styling, layout, and responsive layout
-- **JavaScript**- for interactively and dynamic behavior
+This site was designed and coded from scratch to reflect my personality, design preferences, and growing skills as a front-end web developer. It also serves as a portfolio hub for future opportunities and collaborations.
+
+## Tech Stack 
+* [![HTML][HTML.js]][HTML-url]
+* [![CSS][CSS.js]][CSS-url]
+* [![JavaScript][JS.js]][JS-url]
 
 ## Key Sections :file_folder: 
 - **Home**- Brief introduction and welcome message
