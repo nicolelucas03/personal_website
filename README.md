@@ -1,7 +1,4 @@
-# Personal Website 
-**Author**: Nicole Lucas 
-
-**Email**: nicoleclucas003@gmail.com 
+# Personal Website  
 
 ## About
 
@@ -22,7 +19,7 @@ This site was designed and coded from scratch to reflect my personality, design 
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"    alt="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
     </a>
 
-## Key 
+## Key Sections
 - **Home**- Brief introduction and welcome message
 - **Projects**- A curated selection of web projects, each with links and descriptions
 - **About Me**- My background, interests, and what I am currently learning
@@ -45,4 +42,10 @@ or
 - Auto responsive layout for tablets and phone (currently debugging)
 - Optimize performance and loading times
 - Implement dark mode toggle and theme switching
-- THIS IS A WORK CONSTANTLY IN PROGRESS AS I CONTINUE MY DEVELOPMENT JOURNEY 
+- THIS IS A WORK CONSTANTLY IN PROGRESS AS I CONTINUE MY DEVELOPMENT JOURNEY
+
+## Contact: 
+Nicole Lucas 
+nicoleclucas003@gmail.com
+
+
